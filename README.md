@@ -1,5 +1,10 @@
 # 9. Домашнее задание к занятию «4.1. Репортинг»
 
+## Скриншоты из Allure:
+![image](https://github.com/user-attachments/assets/8f2d7e4c-d302-4413-afee-aa0936745389)
+
+![image](https://github.com/user-attachments/assets/b9c2fac2-cccd-49ac-b133-2aeeb17c306f)
+
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
 Все задачи этого занятия нужно делать **в одном репозитории**.
